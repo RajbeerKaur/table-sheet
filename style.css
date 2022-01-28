@@ -1,0 +1,19 @@
+table,
+ td,
+  th {border: 2px solid black;
+
+  }
+  tr td:first-child,
+  tr td:last-child { 
+      color:brown;
+      font-weight: bold;}
+
+tr,td
+{width: 200px;
+}
+   th{height: 70px;
+   }
+   .container div{
+padding: 10px;
+    box-sizing: border=box;
+} 
